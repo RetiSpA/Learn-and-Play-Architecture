@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Learn and Play - Architecture - AL", "Learn and Play - Architecture - AL\Learn and Play - Architecture - AL.csproj", "{77CF3B74-9754-4130-AA0F-7A71F7EF50CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Learn and Play - Architecture - DAL", "Learn and Play - Architecture - DAL\Learn and Play - Architecture - DAL.csproj", "{F71B0C82-0CF9-4E4B-B334-FCAAC7B934F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77CF3B74-9754-4130-AA0F-7A71F7EF50CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77CF3B74-9754-4130-AA0F-7A71F7EF50CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77CF3B74-9754-4130-AA0F-7A71F7EF50CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77CF3B74-9754-4130-AA0F-7A71F7EF50CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F71B0C82-0CF9-4E4B-B334-FCAAC7B934F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F71B0C82-0CF9-4E4B-B334-FCAAC7B934F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F71B0C82-0CF9-4E4B-B334-FCAAC7B934F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F71B0C82-0CF9-4E4B-B334-FCAAC7B934F4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {77C28AB3-C735-4208-A9FA-581274C1ACA9}
+	EndGlobalSection
+EndGlobal
